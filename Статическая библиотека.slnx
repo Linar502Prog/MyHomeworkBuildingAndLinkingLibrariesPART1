@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../GreeterClient/GreeterClient.vcxproj" Id="8cfcc0ba-d9de-487c-95eb-f1b910d872a3" />
+  <Project Path="Статическая библиотека.vcxproj" Id="54f3d81d-17e2-4142-b567-aea1072988eb" />
+</Solution>
