@@ -10,5 +10,6 @@ int main()
     std::cout << "Введите имя: ";
     std::cin >> name;
     std::cout << greeter.greet(name);
+    return EXIT_SUCCESS;
 }
 
